@@ -1,0 +1,5 @@
+{
+    "name": "bobbyearl-helloworld",
+    "namespace": "Blackbaud.BobbyEarl.HelloWorld",
+    "framework": ".net-standard"
+}
